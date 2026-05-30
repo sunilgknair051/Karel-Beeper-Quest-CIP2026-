@@ -2,3 +2,4 @@
 Karel Beeper Quest is an interactive graphics-based maze game built in Python. The player controls Karel using on-screen movement buttons and must explore a randomly generated level, collect all beepers, manage limited energy, avoid trap tiles, use batteries to restore energy, and move through portal tiles. Once all beepers are collected, the goal flag unlocks and Karel can complete the level.
 
 Each new level is randomly generated, so the game changes every time it is played. As the player progresses, the levels become harder by adding more beepers, traps, and walls while reducing the available starting energy. The project combines graphics, lists, random generation, functions, conditionals, collision checking, score tracking, and user interaction into a complete playable game.
+<img width="578" height="498" alt="image" src="https://github.com/user-attachments/assets/9b6447d9-feda-44a0-b81c-872a1e82c39b" />
