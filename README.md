@@ -1,4 +1,4 @@
-# Karel-Beeper-Quest-CIP2026-
+# Karel Beeper Quest (CIP2026)
 
 <img width="578" height="498" alt="image" src="https://github.com/user-attachments/assets/9b6447d9-feda-44a0-b81c-872a1e82c39b" />
 
